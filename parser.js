@@ -31,7 +31,7 @@ async function checkPrice() {
 
 function sendEmail(subject, body) {
   const email = {
-    to: 'gisoteges@mail-desk.net',
+    to: 'mshammirbaig@gmail.com',
     from: 'amazon-price-checker@example.com',
     subject: subject,
     text: body,
